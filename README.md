@@ -1,5 +1,9 @@
 # Praktikum 8: PHP dan MySQL (CRUD)
 
+Nama: Manuel Johansen Dolok Saribu
+
+Nim: 312410493
+
 Praktikum 8 membahas cara membuat aplikasi web sederhana menggunakan PHP
 dan MySQL dengan fitur CRUD (Create, Read, Update, Delete). Berikut
 adalah rangkuman langkah-langkah dan penjelasan yang dilakukan dalam
@@ -91,7 +95,7 @@ Mengatur layout container\
 
 ------------------------------------------------------------------------
 
-## 9. Cara Menjalankan Proyek
+## 9. Cara Menjalankannya
 
 1.  Jalankan Apache & MySQL melalui XAMPP.
 
